@@ -1,10 +1,10 @@
-# An exact certificate for the Angel–Holmes all-in conjecture
+# An exact certificate for He–Holmes Conjecture 9 (attributed to Angel–Holmes): the all-in short-stack conjecture
 
 ## What
 
 For every real x,y,z>0 with x<y in the all-in game defined in the source paper, f(x,y,z)-f(y,y,z) is at least 379/1813985280>0.
 
-PROVED-HERE: this computer-assisted proof has three exact region certificates covering one theorem. It checks all 9,839 nodes and 6,561 leaves, including every admissible equality stratum.
+Status: PROMISING, pending a human expert's sign-off on the analytic lemmas. PROVED-HERE: this computer-assisted proof has three exact region certificates covering one theorem. It checks all 9,839 nodes and 6,561 leaves, including every admissible equality stratum.
 
 ## Check it yourself
 

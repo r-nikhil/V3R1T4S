@@ -1,4 +1,6 @@
-status: CONFIRMED_SOLUTION
+status: PROMISING
+# Lowered from CONFIRMED_SOLUTION at the maintainer's request in review (2026-10-24): a proof claim waits for a
+# human expert's sign-off on the analytic lemmas (the 4/5 tail bound and the conservative enclosure rule).
 confirmed_scope: For every real x,y,z>0 with x<y in the all-in game defined in the source paper, f(x,y,z)-f(y,y,z) is at least 379/1813985280>0.
 
 The three fresh role verdicts pass the full proof alternative (B). The reproduced scientific object is one universal theorem, partitioned into the three exhaustive stack orderings. Every leaf and all equality strata were checked; no sampled or capped computation substitutes for full coverage. The current source fetch is within six hours and NOVELTY found no prior full settlement or competing public claim. Its explicitly reported source-index and unpublished-work limits are retained.
